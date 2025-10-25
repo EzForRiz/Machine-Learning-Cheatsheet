@@ -68,3 +68,6 @@ for i, intro in enumerate(data['intro']):
     for j, feature in enumerate(feature_names):
         print(feature, intro_tfidf[i][j])
     print("\n")
+
+
+
